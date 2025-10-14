@@ -1,7 +1,7 @@
 ---
-title: "Landing.md"
+title: Projects
 layout: landing
-description: 'First line of text. <br /> Second line of text.'
+description: 'This is my portfolio. <br /> Feel free to check out!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

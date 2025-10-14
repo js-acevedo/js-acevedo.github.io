@@ -1,21 +1,19 @@
 # site settings
 title: Welcome!
-subtitle: (page currently in construction)
+subtitle: (site in construction)
 email: jorge@email.com
-description: Personal website/portfolio.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog // THIS MIGHT BE MESSING UP STUFF
+description: Learn more about me!
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://js-acevedo.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Street St
+author: Jorge S. A.
+street_address:
 city: Toronto
 state: Ontario
-zip_code: M5R 1R1
 country: Canada
-phone: (416) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
