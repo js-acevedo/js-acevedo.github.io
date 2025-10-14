@@ -2,7 +2,7 @@
 layout: page
 title: Markdown-Tutorial
 image: assets/images/pic01.jpg
-nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
