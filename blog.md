@@ -2,9 +2,9 @@
 layout: allposts
 title: Blog
 landing-title: 'Welcome to my blog!'
+description: Coffee, gaming, and fitness (probably)!
 nav-menu: true
-description: null
-image: null
+image: assets/images/pic09.jpg
 author: null
 show_tile: true
 ---
