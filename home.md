@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hola! This is Jorge. <br /> My website is currently in construction!'
+landing-title: 'Hola! This is Jorge. <br /> [Site in construction]'
 description: null
 image: null
 author: null

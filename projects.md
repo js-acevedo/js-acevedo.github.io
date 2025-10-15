@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'This is my portfolio. <br /> Feel free to check out!'
-image: assets/images/pic07.jpg
+image: assets/images/toronto.png
 nav-menu: true
 ---
 
