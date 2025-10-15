@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Markdown Tutorial
+title: Markdown
 image: assets/images/pic01.jpg
 show_tile: false
 ---
