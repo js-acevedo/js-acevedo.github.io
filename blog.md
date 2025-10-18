@@ -2,7 +2,7 @@
 layout: allposts
 title: Blog
 landing-title: 'Welcome to my blog!'
-description: Coffee, gaming, and fitness (probably)!
+description: Coffee, gaming, and fitness!
 nav-menu: true
 image: assets/images/latteart.jpeg
 author: null
