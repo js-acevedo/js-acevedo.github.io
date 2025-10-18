@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Projects > Project 2</h3>
+					<h3> [Loading Project..........67%,,,]</h3>
 				</header>
 				<p>STREAM GOLDEN BY HUNTR/X.</p>
 				<ul class="actions">
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Projects > Project 3</h3>
+					<h3> [Loading Project #2.....41%,,,,,]</h3>
 				</header>
 				<p>Currently in development! Please check again later.</p>
 				<ul class="actions">
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> Projects  > Project 3</h3>
+					<h3> [Loading Project #3..9%,,,,,,,,,,,]</h3>
 				</header>
 				<p>Currently in development! Please check again later.</p>
 				<ul class="actions">
