@@ -3,8 +3,8 @@ title: Welcome!
 subtitle: (site in construction)
 email: jorge@email.com
 description: Learn more about me!
-baseurl:  "/home" # the subpath of your site, e.g. /blog
-url: "https://js-acevedo.github.io" # the base hostname & protocol for your site
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site --> https://js-acevedo.github.io 
 author: Jorge S. A.
 street_address:
 city: Toronto

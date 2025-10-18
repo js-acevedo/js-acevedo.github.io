@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'This is my portfolio. <br /> Feel free to check out!'
+description: 'Welcome to my portfolio. <br /> More projects coming soon!'
 image: assets/images/toronto.png
 nav-menu: true
 ---
@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -17,61 +17,61 @@ nav-menu: true
 		</header>
 		<p>Placeholder, title text here. This is inside Landing subpage.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="home.html" class="image">
+			<img src="{% link assets/images/cat1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Landing md > Part 2</h3>
+					<h3> Projects > Project 2</h3>
 				</header>
-				<p>Placeholder text here.</p>
+				<p>STREAM GOLDEN BY HUNTR/X.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="home.html" class="button">Learn more...</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="home.html" class="image">
+			<img src="{% link assets/images/cat2.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Landing md > Part 3</h3>
+					<h3> Projects > Project 3</h3>
 				</header>
-				<p>Another placeholder text!!.</p>
+				<p>Currently in development! Please check again later.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Coming soon...</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="home.html" class="image">
+			<img src="{% link assets/images/cat3.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Landing md > Part 4</h3>
+					<h3> Projects  > Project 3</h3>
 				</header>
-				<p>Last placeholder text is hereeeee.</p>
+				<p>Currently in development! Please check again later.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Coming soon...</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -83,6 +83,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
