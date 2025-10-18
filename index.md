@@ -7,5 +7,3 @@ image: assets/images/tomioka.jpg
 author: null
 show_tile: false
 ---
-
-Stream Golden by HUNTR/X !!!

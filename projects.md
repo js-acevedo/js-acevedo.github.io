@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3> [Project #1 Loading] <br /> [██████▓░░░ 67%] </h3>
 				</header>
-				<p> <a href="https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"> Stream Golden by Huntr/x! </a> </p>
+				<p> <a href="https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS" target="_blank"> Stream Golden by Huntr/x! </a> </p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more...</a></li>
 				</ul>
