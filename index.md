@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hola! This is Jorge. <br /> [Site in construction]'
+landing-title: 'Jorge Saulo Acevedo'
 description: null
 image: assets/images/tomioka.jpg
 author: null

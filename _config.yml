@@ -1,8 +1,8 @@
 # site settings
-title: Welcome!
-subtitle: (site in construction)
+title: Hola!
+subtitle: Welcome to my site!
 email: jorge@email.com
-description: Learn more about me!
+description: This is a test#1!
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site --> https://js-acevedo.github.io 
 author: Jorge S. A.
