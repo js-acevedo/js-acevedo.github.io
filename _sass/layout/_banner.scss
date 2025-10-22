@@ -71,6 +71,24 @@
 				}
 			}
 
+			/* ADD THIS RIGHT BELOW THE HEADER BLOCK */
+			.name-title {
+				text-align: left;
+
+				h1 {
+				font-size: 3rem;
+				font-weight: 700;
+				margin: 0;
+				}
+
+				p {
+				font-size: 1.25rem;
+				color: _palette(fg-light);
+				margin: 0.5rem 0 0 0;
+				}
+			}
+			/* NEW SECTION ENDS HERE */
+
 			.content {
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
