@@ -44,14 +44,11 @@ Professional Summary. </p>
 
 <ul class="alt">
 			<li>
-			<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-			Hobbie #1  </p>
+			<span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+			Hobbie #1
 			</li>
 			<li>
-			<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-			Hobbie #2  </p>
-			</li>
-			<li><p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-			Hobbie #3  </p>
+			<span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+			Hobbie #2
 			</li>
 		</ul>
