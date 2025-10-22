@@ -29,18 +29,19 @@
 	);
 
 // Palette.
+// Color palette here. Change website color - colours.
 	$palette: (
-		bg:					#714329,
-		bg-alt:				#965937,
+		bg:					#0a2344,	// Background color
+		bg-alt:				#3b1d4a,	// Alt BG color
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),
 		border:				rgba(212,212,255,0.1),
 		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#b08463,
-		accent1:			#956B4B,
-		accent2:			#b9937b,
-		accent3:			#d0b9a7,
+		highlight:			#fd0363,	// Highlights
+		accent1:			#6b1650,	// Tile 1
+		accent2:			#9c1057,	// Tile 2
+		accent3:			#cc095d,	// Tile 3
 		accent4:			#e7b788, //Accents 4-6 unchanged from original theme
 		accent5:			#8ea9e8,
 		accent6:			#87c5a4
