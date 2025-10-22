@@ -41,19 +41,17 @@ Professional Summary. </p>
 		</header>
 
 <!-- Content -->
-<div>
-<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-Hobbie #1  </p>
-</div>
 
-<div>
-<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-Hobbie #2  </p>
-</div>
-
-<div>
-<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-Hobbie #3  </p>
-</div>
-
-</div>
+<ul class="alt">
+			<li>
+			<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+			Hobbie #1  </p>
+			</li>
+			<li>
+			<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+			Hobbie #2  </p>
+			</li>
+			<li><p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+			Hobbie #3  </p>
+			</li>
+		</ul>

@@ -2,7 +2,7 @@
 title: Hola!
 subtitle: Welcome to my site!
 email: jorge@email.com
-description: Check out my portfolio & blog!
+description: null
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site --> https://js-acevedo.github.io 
 author: Jorge S. A.
