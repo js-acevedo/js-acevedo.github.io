@@ -18,17 +18,25 @@ nav-menu: true
 
 <!-- Content -->
 <p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-Professional Title. <br />
-Professional Summary. </p>
+Data Analyst. <br />
+With over 2 years of experience in roles ranging from data engineering to customer insights analysis, Jorge can easily transform theory into practice, and data into actions. </p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Skills</h3>
+		<p>
+			<ul class="alt">
+				<li>Python - Cleaning, Processing, Analysis, Visualization</li>
+				<li>SQL - DDL/DML, Joins, Window Functions</li>
+				<li>Excel - Pivot Tables, Xlookup, Conditional Formatting</li>
+				<li>PowerBI - Visualization</li>
+				<li>Tableau - Visualization</li>
+			</ul>
+		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Career Goals</h3>
+		<p>Jorge aims to continue his professional career by taking advantage of his data-analysis abilities combined with his newly acquired business management knowledge. He's particularly interested in roles within the retail and entertainment industries, where data-driven insights can enhance customer experience by guiding smarter decisions. </p>
 
 </div>
 
@@ -44,11 +52,7 @@ Professional Summary. </p>
 
 <ul class="alt">
 			<li>
-			<span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-			Hobbie #1
-			</li>
-			<li>
-			<span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
-			Hobbie #2
+			<span class="image left"><img src="{% link assets/images/latteart.jpeg %}" alt="" /></span>
+			Jorge really enjoys a good cup of coffee. While he's still far from a "connoisseur" status, he's slowly making his way up there by visiting 3rd wave, specialty cafes in his free time, and always willing to try espresso-based drinks. He's also learning how to pour latte art.
 			</li>
 		</ul>
