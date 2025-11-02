@@ -49,30 +49,10 @@ With over 2 years of experience in roles ranging from data engineering to custom
 		</header>
 	</div>
 <!-- Content -->
-<div>
-	<ul class="alt">
-		<li>
-			<span class="image left"><img src="{% link assets/images/latteart.jpeg %}" alt="" /></span>
-			Jorge really enjoys a good cup of coffee. While he's still far from a "connoisseur" status, he's slowly making his way up there by visiting 3rd wave, specialty cafes in his free time, and always willing to try espresso-based drinks. He's also learning how to pour latte art.
-		</li>
-	</ul>
-</div>
 
-<div>
-	<ul class="alt">
-		<li>
-			<span class="image left"><img src="{% link assets/images/silksong.jpg %}" alt="" /></span>
-			Gaming is one of Jorge's biggest passions, as he grew up playing all sorts of videogames in a variety of consoles including the GBA, Wii, Xbox 360, Nintendo DS, Xbox One, and currently a gaming PC. <br>
-			He particularly enjoys the "soulslike" genre of games, as well as competitive multiplayer games like Apex Legends or League of Legends.
-		</li>
-	</ul>
-</div>
+<p><span class="image left"><img src="{% link assets/images/latteart.jpeg %}" alt="" /></span>Jorge really enjoys a good cup of coffee. While he's still far from a "connoisseur" status, he's slowly making his way up there by visiting 3rd wave, specialty cafes in his free time, and always willing to try espresso-based drinks. He's also learning how to pour latte art.</p>
 
-<div>
-	<ul class="alt">
-		<li>
-			<span class="image left"><img src="{% link assets/images/gym.png %}" alt="" /></span>
-			When it comes to fitness, even though Jorge is not particularly into any sport (other than a casual game of Basketball or Tennis every now and then), he likes to stay in good shape through weight lifting and reguarly going to the gym and making sure to hit protein macros on a daily basis. <br>
-		</li>
-	</ul>
-</div>
+<p><span class="image left"><img src="{% link assets/images/silksong.jpg %}" alt="" /></span>Gaming is one of Jorge's biggest passions, as he grew up playing all sorts of videogames in a variety of consoles including the GBA, Wii, Xbox 360, Nintendo DS, Xbox One, and currently a gaming PC. <br>
+He particularly enjoys the "soulslike" genre of games, as well as competitive multiplayer games like Apex Legends or League of Legends.</p>
+
+<p><span class="image left"><img src="{% link assets/images/gym.png %}" alt="" /></span>When it comes to fitness, even though Jorge is not particularly into any sport (other than a casual game of Basketball or Tennis every now and then), he likes to stay in good shape through weight lifting and reguarly going to the gym and making sure to hit protein macros on a daily basis.</p>

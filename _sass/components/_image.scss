@@ -62,13 +62,15 @@ img {
 			}
 		}
 
+		
+		//blog entries
 		&.main {
 			display: block;
-			margin: (_size(element-margin) * 0.75) 0;
+			margin: (_size(element-margin) * 1.25) 0;
 			width: 100%;
 
 			img {
-				width: 100%;
+				width: 80%; //img size 
 			}
 
 			@include breakpoint(small) {
