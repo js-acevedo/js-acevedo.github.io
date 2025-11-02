@@ -18,6 +18,7 @@ nav-menu: true
 
 <!-- Content -->
 <p><span class="image round"><img src="{% link assets/images/linkedin.jpeg %}" alt="" /></span>
+<h4> Jorge Acevedo </h4> <br />
 <b> Data Analyst </b> <br />
 With over 2 years of experience in roles ranging from data engineering to customer insights analysis, Jorge can easily transform theory into practice, and data into actions. </p>
 
