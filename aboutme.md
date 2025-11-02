@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{% link assets/images/goated.png %}" alt="" /></span>
+<p><span class="image left"><img src="{% link assets/images/linkedin.jpeg %}" alt="" /></span>
 <b> Data Analyst </b> <br />
 With over 2 years of experience in roles ranging from data engineering to customer insights analysis, Jorge can easily transform theory into practice, and data into actions. </p>
 
@@ -47,7 +47,7 @@ With over 2 years of experience in roles ranging from data engineering to custom
 		<header class="major">
 			<h2>Outside of work</h2>
 		</header>
-
+	</div>
 <!-- Content -->
 <div>
 	<ul class="alt">
@@ -61,7 +61,7 @@ With over 2 years of experience in roles ranging from data engineering to custom
 <div>
 	<ul class="alt">
 		<li>
-			<span class="image right"><img src="{% link assets/images/silksong.jpg %}" alt="" /></span>
+			<span class="image left"><img src="{% link assets/images/silksong.jpg %}" alt="" /></span>
 			Gaming is one of Jorge's biggest passions, as he grew up playing all sorts of videogames in a variety of consoles including the GBA, Wii, Xbox 360, Nintendo DS, Xbox One, and currently a gaming PC. <br>
 			He particularly enjoys the "soulslike" genre of games, as well as competitive multiplayer games like Apex Legends or League of Legends.
 		</li>

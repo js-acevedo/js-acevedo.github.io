@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'Welcome to my portfolio. <br /> More projects coming soon!'
-image: assets/images/toronto.png
+image: assets/images/sakura1.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/cat1.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/marty1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/cat2.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/marty3.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="{% link assets/images/cat3.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/marty4.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
