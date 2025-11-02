@@ -49,10 +49,22 @@ img {
 				width: 100%;
 			}
 		}
+		
+		//test 
+		&.round {
+			float: left;
+			margin: 0 1.5em 1.25em 0;
+			top: 0.25em;
+			max-width: 30%;
+
+			img {
+				border-radius: 50%;
+			}
+		}
 
 		&.main {
 			display: block;
-			margin: (_size(element-margin) * 1) 0;
+			margin: (_size(element-margin) * 0.75) 0;
 			width: 100%;
 
 			img {

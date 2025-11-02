@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{% link assets/images/linkedin.jpeg %}" alt="" /></span>
+<p><span class="image round"><img src="{% link assets/images/linkedin.jpeg %}" alt="" /></span>
 <b> Data Analyst </b> <br />
 With over 2 years of experience in roles ranging from data engineering to customer insights analysis, Jorge can easily transform theory into practice, and data into actions. </p>
 
